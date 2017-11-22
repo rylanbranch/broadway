@@ -4,8 +4,16 @@
 	color: white;
 }
 
+.hero h1 {
+	font-size: 70px;
+}
+
+.nav-item a {
+	color: white;
+}
+
 body {
-	font-family: "Helvetica", sans-serif;
+	font-family: Helvetica;
 }
 
 h1, h2, h3 {
@@ -26,4 +34,21 @@ h1, h2, h3 {
 
 .supporting p {
 	font-size: 14px;
+}
+
+.footer {
+	background-color: dimgray;
+    color: white;
+}
+
+.footer .nav-item {
+	color: white;
+}
+
+.copyright {
+	font-size: 11px;
+}
+
+.nav-item {
+	font-size: 18px;
 }
